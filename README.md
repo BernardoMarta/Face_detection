@@ -82,4 +82,4 @@ This project is licensed under the MIT License.
 
 ## Acknowledgments
 
--   Thanks to OpenCV for providing the libraries and Haar Cascade classifiers used in this project.
+Thanks to OpenCV for providing the libraries and Haar Cascade classifiers used in this project.
